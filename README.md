@@ -25,7 +25,3 @@ Each case study opens from its own shareable link:
 ## Deploying
 
 The repo is connected to Vercel. Every push to `main` deploys to production, and every other branch gets its own preview link. No build step is needed.
-
-## Editing
-
-Placeholders that still need real content are marked with `class="todo"` and show as yellow highlights on the page. Search `index.html` for `todo` to find them.
